@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T06:46:40.158Z" agent="5.0 (X11)" version="13.5.9" etag="dKb18E1tY5rHEakRut83" type="github"><diagram id="3UTb-fLnf4KV-s_43TrR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-05T07:01:47.040Z" agent="5.0 (X11)" etag="ZosskIF9lyAZo6l3h6nC" version="13.5.9" type="github">
+  <diagram id="3UTb-fLnf4KV-s_43TrR" name="Page-1">
+    <mxGraphModel dx="1422" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mkOtyraIFmE1bGXFwr_z-2" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="296.5" y="-12.5" width="170" height="435" as="geometry" />
+        </mxCell>
+        <mxCell id="mkOtyraIFmE1bGXFwr_z-3" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="180.57" y="162.82" width="120" height="84.37" as="geometry" />
+        </mxCell>
+        <mxCell id="mkOtyraIFmE1bGXFwr_z-5" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="475.88" y="165.63" width="120" height="78.75" as="geometry" />
+        </mxCell>
+        <mxCell id="mkOtyraIFmE1bGXFwr_z-9" value="" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="140" width="68.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mkOtyraIFmE1bGXFwr_z-6" value="&lt;div&gt;&lt;b&gt;Postgres&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;SQL&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="363.5" y="194" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mkOtyraIFmE1bGXFwr_z-10" value="&lt;div align=&quot;justify&quot;&gt;&lt;b&gt;Fossology&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;b&gt;Scheduler&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="188" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mkOtyraIFmE1bGXFwr_z-11" value="&lt;div align=&quot;justify&quot;&gt;&lt;b&gt;Fossology&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;b&gt;&amp;nbsp;Web UI&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="509" y="188" width="56" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
