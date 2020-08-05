@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T07:26:59.600Z" agent="5.0 (X11)" etag="-kxvIpNs_v-IgkhDwnlV" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T07:30:35.782Z" agent="5.0 (X11)" etag="IEm6WRswXRYUyDsQRgN0" version="13.5.9" type="github">
   <diagram id="3UTb-fLnf4KV-s_43TrR" name="Page-1">
     <mxGraphModel dx="1422" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="330" y="440" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="mkOtyraIFmE1bGXFwr_z-2" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="253.25" y="-24.75" width="256.5" height="435" as="geometry" />
+          <mxGeometry x="248.13" y="-19.62" width="266.75" height="435" as="geometry" />
         </mxCell>
         <mxCell id="mkOtyraIFmE1bGXFwr_z-3" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="190.28" y="203.54" width="100.57" height="84.37" as="geometry" />
@@ -67,7 +67,7 @@
         <mxCell id="mkOtyraIFmE1bGXFwr_z-27" value="&lt;div&gt;&lt;b&gt;&amp;nbsp;Fossology&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Container&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365.5" y="509.37" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mkOtyraIFmE1bGXFwr_z-30" value="&lt;b&gt;Artifacts&lt;/b&gt;" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="mkOtyraIFmE1bGXFwr_z-30" value="&lt;div&gt;&lt;b&gt;Artifacts&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(get.legato)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="500" y="440" width="83.82" height="160" as="geometry" />
         </mxCell>
         <mxCell id="mkOtyraIFmE1bGXFwr_z-31" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mkOtyraIFmE1bGXFwr_z-26" target="mkOtyraIFmE1bGXFwr_z-9">
@@ -96,6 +96,9 @@
         </mxCell>
         <mxCell id="mkOtyraIFmE1bGXFwr_z-39" value="&lt;b&gt;Oss-Fossology-Scan&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="179.5" y="620" width="220.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mkOtyraIFmE1bGXFwr_z-40" value="&lt;div&gt;&lt;b&gt;Fossology Server&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="135.5" y="310" width="270" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
